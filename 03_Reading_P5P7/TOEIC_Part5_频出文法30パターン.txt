@@ -1,0 +1,153 @@
+TOEIC Part 5 频出文法30パターン攻略
+=====================================
+
+Part 5 概要:
+- 30题短文填空
+- 建议每题20秒
+- 三大类: 品词问题(~40%)、语汇问题(~30%)、文法问题(~30%)
+
+1. 再归代名詞 (Reflexive Pronouns)
+   - myself, ourselves, himself, herself, themselves
+   - 用法1: "by oneself" = 自力で/自分で
+   - 用法2: 目的语と主语が同じ人物を指す场合
+
+2. 时制 (Tense)
+   - by the time + 过去形 → 过去完了(had + p.p.)
+   - by the time + 现在形 → 未来完了(will have + p.p.)
+   - already, yet, just → 现在完了/过去完了
+
+3. 命令・提案・要求・推奨动词
+   - suggest, recommend, require, demand, insist
+   - that节中: 动词原形(S + V原形)
+   - 例: The manager requires that every employee (submit) the report.
+
+4. 単数与复数
+   - each, every, either, neither + 单数名词 + 单数动词
+   - both, several, many + 复数名词 + 复数动词
+
+5. 主语与动词的一致
+   - The number of + 复数名词 + 单数动词
+   - A number of + 复数名词 + 复数动词
+
+6. 関系代名詞 which 与 that
+   - 逗号后只能用which, 不能用that
+   - that不能用于非限制性定语从句
+
+7. another, the other, other
+   - another = 还一个(不特定)
+   - the other = 剩下的那个(特定)
+   - other + 复数名词 = 其他的
+   - the other + 复数名词 = 剩下所有的
+
+8. 否定意味的副词
+   - hardly, scarcely, rarely, seldom = 几乎不
+   - 注意: 这些词本身已含否定意, 不要再加not
+
+9. 前置词后的动名词
+   - 介词后接V-ing
+   - 例: She is interested in (learning) new skills.
+
+10. 接続词 vs 前置词
+    - 接続词(conjunction): 后接 S + V (because, although, while)
+    - 前置词(preposition): 后接名词/V-ing (because of, despite, in spite of)
+
+11. ~ever (复合関系代名詞/副词)
+    - whatever, whoever, whenever, wherever, however
+    - 例: Whoever (wins) the competition will receive a prize.
+
+12. 代名詞 those who
+    - those who = ~的人们
+    - 例: Those who (wish) to attend must register.
+
+13. to不定詞っぽい动名词
+    - look forward to + V-ing (to是前置词)
+    - be used to + V-ing (习惯于)
+    - object to + V-ing
+
+14. be动词后的现在分词与过去分词
+    - 现在分词(-ing): 主语的性质(令人...的)
+    - 过去分词(-ed): 主语的状态(感到...的)
+    - 例: The movie is boring. / The audience is bored.
+
+15. 形容词か副词か
+    - 形容词修饰名词
+    - 副词修饰动词/形容词/全句
+    - 例: She performed (efficiently). / She is an (efficient) worker.
+
+16. 代名詞 one 与 it
+    - one = 同类中不特定的一个
+    - it = 前面提到的特定物
+    - 例: I need a pen. Do you have one? / I lost my pen. I can't find it.
+
+17. or 与 nor
+    - A or B → 动词与最近的B一致
+    - Neither A nor B → 动词与最近的B一致
+    - Either A or B → 动词与最近的B一致
+
+18. 使役动词 have
+    - have + O + V原形 (让O做...)
+    - have + O + 过去分词 (让...被做)
+    - 例: I had him (fix) the computer. / I had my car (repaired).
+
+19. 自动词与他动词
+    - 自动词: 不需要目的语 (happen, occur, appear)
+    - 他动词: 需要目的语 (raise, lay, set)
+    - 注意: rise/raise, lie/lay, sit/set的区别
+
+20. 熟语的目的语(代名詞)的位置
+    - take it over (O), take over the company (X take over it)
+    - 代名詞放在动词与副词之间
+
+21. 乗り物的前置词
+    - get on/off: bus, train, plane, ship (大型公共交通)
+    - get in/out of: car, taxi, helicopter (小型私人交通工具)
+
+22. until 与 by
+    - until = 直到...为止(持续)
+    - by = 在...之前(期限)
+    - 例: Wait here until 5 PM. / Submit the report by Friday.
+
+23. unless 与 otherwise
+    - unless = if not (除非)
+    - otherwise = or else (否则)
+    - 例: You cannot enter unless you have a ticket.
+
+24. despite 与 in spite of
+    - despite + 名词/V-ing (无of)
+    - in spite of + 名词/V-ing
+    - 错误: despite of (不存在这个表达)
+
+25. borrow, rent, lend, use
+    - borrow = 借入(从别人那里借)
+    - lend = 借出(借给别人)
+    - rent = 租用(付租金)
+    - use = 使用
+
+26. 仮定法的倒置
+    - Had I known... = If I had known...
+    - Were I you... = If I were you...
+    - Should you need... = If you should need...
+
+27. so ~ that / such ~ that
+    - so + 形容词/副词 + that
+    - such + (a/an) + 形容词 + 名词 + that
+    - 例: so expensive that... / such an expensive item that...
+
+28. "为了"的熟语
+    - in order to + V
+    - so as to + V
+    - with a view to + V-ing
+    - for the purpose of + V-ing
+
+29. "关于"的熟语
+    - regarding + N
+    - concerning + N
+    - with regard to + N
+    - in terms of + N
+    - with respect to + N
+
+30. 文头が( )で始まる问题
+    - 先读逗号后面的主句
+    - 判断前面需要接続词还是前置词
+    - 接続词: 后面有S+V → although, because, while, if
+    - 前置词: 后面只有N/V-ing → despite, because of, during
