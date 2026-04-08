@@ -1,0 +1,24 @@
+# Temporary scripts
+*.py
+!extract_chunks.py
+!extract_articles.py
+!generate_tts.py
+
+# Anki launcher installer (large binary, should be stored separately)
+anki-launcher*.exe
+
+# Windows/IDE
+Thumbs.db
+.DS_Store
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Anki data (optional - local user data)
+*.anki/

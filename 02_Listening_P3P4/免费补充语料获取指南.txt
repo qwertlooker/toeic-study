@@ -1,0 +1,68 @@
+免费补充语料获取指南
+==================
+
+一、BBC 6 Minute English
+-----------------------
+用途: 精听入门、适应自然语流
+使用频率: 每周 1-2 篇可选
+使用规则: 只选有文字稿的内容；不要替代 TOEIC 主材料
+
+获取渠道:
+1. BBC Learning English 官网
+   https://www.bbc.co.uk/learningenglish/english/features/6-minute-english
+   - 每期包含音频播放器和文字稿
+   - 可逐篇在线收听和阅读
+
+2. 播客平台
+   - Apple Podcasts: 搜索 "6 Minute English"
+   - Spotify: 搜索 "BBC 6 Minute English"
+   - 小宇宙: 搜索 "6 Minute English"
+
+3. 批量下载（含音频+文本）
+   - 结网英语: http://www.jwbl.com/html/10/16384.html
+     每月更新百度网盘链接，包含 MP3 音频 + TXT 文本
+   - 喜马拉雅: 搜索 "BBC 6 Minute English"
+
+推荐篇目（与托业职场场景相关）:
+- Episode 260108: Is social media dead?
+- Episode 251120: Do you have good dining etiquette?
+- Episode 250703: How do you say sorry?
+- Episode 240502: Talking at the table
+- Episode 240201: What is the future of work?
+- Episode 230817: Are you unhappy at work?
+- Episode 210715: Flexible working
+- Episode 200611: The food delivery revolution
+- Episode 190328: Side hustles
+- Episode 180405: The future of marriage
+
+二、VOA Learning English
+-----------------------
+用途: 慢速修复音形脱节
+使用频率: 遇到听不清时短期补充，每次 10-15 分钟
+使用规则: 只做听写/跟读，不沉迷泛听
+
+获取渠道:
+1. VOA Learning English 官网
+   https://learningenglish.voanews.com/
+   - 包含音频和文字稿
+   - 按难度分级
+
+2. 批量下载
+   - 结网英语: http://www.jwbl.com 搜索 "VOA慢速英语"
+     每月更新百度网盘链接
+
+3. 播客平台
+   - Apple Podcasts: 搜索 "VOA Learning English"
+   - Spotify: 搜索 "VOA Learning English"
+
+推荐类型:
+- As It Is（新闻简报，适合精听入门）
+- Everyday Grammar（语法讲解，适合 Part 5 备考）
+- Words and Their Stories（词汇故事，适合词块积累）
+
+三、使用建议
+-----------
+1. BBC 6 Minute English 优先于 VOA，因为语速更接近托业
+2. 每次精听流程: 盲听2遍 → 看文本查生词 → 对照精听 → 跟读5遍 → 不看文本复述
+3. 不要用 BBC/VOA 替代托业官方题集，它们只是补充语料
+4. 遇到音形脱节时，先用 VOA 慢速修复，再回到正常语速
