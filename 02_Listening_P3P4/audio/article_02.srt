@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:06,505
+Reliable Sedan for Sale A well-maintained 2018 <b>Silver</b>line sedan‿is‿available for‿immediate purchase ↘ //
+
+2
+00:00:06,505 --> 00:00:18,300
+The car has 48 ↗ / 000 <b>kilomet</b>ers‿on‿it ↗ / has never been‿in‿an‿<b>accid</b>ent ↗ / and was serviced <b>regul</b>arly‿at‿an‿<b>author</b>ized repair center ↘ //
+
+3
+00:00:18,300 --> 00:00:25,586
+It‿<b>includ</b>es‿a rear camera ↗ / new <b>tir</b>es ↗ / and‿a recently <b>repla</b>ced battery ↘ //
+
+4
+00:00:25,586 --> 00:00:28,795
+The <b>aski</b>ng price is $8 ↗ / 900 ↘ //
+
+5
+00:00:28,795 --> 00:00:35,300
+The owner‿is selling the <b>vehi</b>cle because she is moving‿<b>overs</b>eas next month ↘ //
+
+6
+00:00:35,300 --> 00:00:40,070
+Test drives‿are <b>avail</b>able on weekends by‿<b>appoint</b>ment‿only ↘ //
+
+7
+00:00:40,070 --> 00:00:42,672
+Call 555-0182 for more <b>informa</b>tion ↘ //

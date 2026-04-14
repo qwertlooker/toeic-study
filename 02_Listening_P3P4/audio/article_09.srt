@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:04,637
+Order Summary #3397 <b>Custom</b>er ↗ / Linton‿Office <b>Supp</b>ly ↘ //
+
+2
+00:00:04,637 --> 00:00:15,096
+Items‿<b>orde</b>red ↗ / 12 wireless <b>keybo</b>ards‿at $24 each ↗ / 8 desk <b>lam</b>ps‿at $18 each ↗ / and 3 storage <b>cabin</b>ets‿at $95 each ↘ //
+
+3
+00:00:15,096 --> 00:00:21,213
+<b>Stand</b>ard shipping‿is $36 ↗ / and tax‿is <b>calcul</b>ated‿at checkout ↘ //
+
+4
+00:00:21,213 --> 00:00:24,864
+<b>Estim</b>ated delivery date ↗ / <b>Augu</b>st 19 ↘ //
+
+5
+00:00:24,864 --> 00:00:30,291
+Please review the <b>quantiti</b>es carefully before <b>submitt</b>ing the order ↘ //
+
+6
+00:00:30,291 --> 00:00:37,197
+Changes to <b>shipp</b>ing‿address can be made only before payment‿is <b>proce</b>ssed ↘ //
+
+7
+00:00:37,197 --> 00:00:42,624
+A <b>confirma</b>tion‿e-mail will be sent‿<b>automati</b>cally‿after checkout ↘ //

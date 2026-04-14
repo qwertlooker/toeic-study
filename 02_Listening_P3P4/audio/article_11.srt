@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:11,175
+<b>Subj</b>ect ↗ / Change of <b>Meet</b>ing Time Dear Team ↗ / Our weekly sales <b>meet</b>ing ↗ / <b>origin</b>ally scheduled for Thursday‿at 2 ↗ / 00 p.m. ↗ / has been moved to <b>Frid</b>ay‿at 10 ↗ / 00 a.m ↘ //
+
+2
+00:00:11,175 --> 00:00:15,780
+because several team members will be attending‿a client <b>presenta</b>tion‿on Thursday‿<b>after</b>noon ↘ //
+
+3
+00:00:15,780 --> 00:00:22,044
+The <b>meet</b>ing will still take place in <b>Confer</b>ence Room B ↗ / and the agenda will <b>rema</b>in the same ↘ //
+
+4
+00:00:22,044 --> 00:00:29,412
+Please review last month’s sales report before the meeting‿and be <b>prepa</b>red to discuss your <b>regio</b>nal targets for the next quarter ↘ //
+
+5
+00:00:29,412 --> 00:00:37,824
+If you are unable to <b>atte</b>nd ↗ / let me know by the end‿of the day so I can send you the <b>meet</b>ing notes‿<b>after</b>ward ↘ //

@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:12,365
+<b>Subj</b>ect ↗ / Delay‿in Shipment Dear <b>Custom</b>er ↗ / We are writing to let you know that your‿order #77594 has been delayed because of‿a <b>tempo</b>rary shortage at‿our <b>distribu</b>tion center ↘ //
+
+2
+00:00:12,365 --> 00:00:20,961
+We <b>origin</b>ally‿<b>expec</b>ted to ship your package on Monday ↗ / but the new‿estimated shipping date is <b>Wedne</b>sday ↗ / <b>Apr</b>il 15 ↘ //
+
+3
+00:00:20,961 --> 00:00:27,897
+Once the package leaves‿our <b>wareh</b>ouse ↗ / you will receive a <b>confirma</b>tion‿e-mail with tracking‿<b>informa</b>tion ↘ //
+
+4
+00:00:27,897 --> 00:00:34,080
+If you would prefer to <b>canc</b>el the order ↗ / please <b>cont</b>act‿us within 24 hours ↘ //
