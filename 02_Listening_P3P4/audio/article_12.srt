@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:04,361
+<b>Subj</b>ect ↗ / Interview‿<b>Invita</b>tion for Marketing‿Assistant Position Dear Ms ↘ //
+
+2
+00:00:04,361 --> 00:00:10,130
+Lin ↗ / Thank you for‿applying for the Marketing‿<b>Assis</b>tant position‿at <b>Bright</b>Wave Media ↘ //
+
+3
+00:00:10,130 --> 00:00:20,541
+After reviewing your‿<b>applica</b>tion ↗ / we would like to invite you to an‿<b>inter</b>view‿at‿our‿office on <b>Tues</b>day ↗ / May 12 ↗ / at 11 ↗ / 00 a.m ↘ //
+
+4
+00:00:20,541 --> 00:00:24,058
+The <b>inter</b>view‿is‿expected to last‿about 40 minutes ↘ //
+
+5
+00:00:24,058 --> 00:00:30,389
+Please bring‿a copy‿of your resume and‿any <b>mater</b>ials that show your previous work‿<b>experi</b>ence ↘ //
+
+6
+00:00:30,389 --> 00:00:36,720
+Please reply to this‿e-mail by Friday to confirm <b>wheth</b>er you are <b>avail</b>able at that time ↘ //

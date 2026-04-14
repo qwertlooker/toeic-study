@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:09,101
+<b>Subj</b>ect ↗ / <b>Incor</b>rect‿Items‿in Recent Paint‿Order Dear <b>Custom</b>er Service ↗ / I am <b>writ</b>ing‿about‿order #7716 ↗ / which‿arrived this <b>morn</b>ing ↘ //
+
+2
+00:00:09,101 --> 00:00:16,829
+<b>Unfortun</b>ately ↗ / two of the paint samples‿in the <b>pack</b>age do not match the colors listed‿on my‿<b>invo</b>ice ↘ //
+
+3
+00:00:16,829 --> 00:00:23,835
+I <b>orde</b>red‿Ocean Blue and Stone Gray ↗ / but‿I <b>recei</b>ved‿Ocean Blue and Sunset‿Orange <b>inst</b>ead ↘ //
+
+4
+00:00:23,835 --> 00:00:28,530
+Could you please send the <b>corr</b>ect sample as soon‿as <b>possi</b>ble ↗ //
+
+5
+00:00:28,530 --> 00:00:33,586
+I need to <b>final</b>ize a design <b>propo</b>sal for my client by Friday ↘ //
+
+6
+00:00:33,586 --> 00:00:37,920
+I would‿<b>apprec</b>iate your prompt‿<b>assist</b>ance in resolving this‿issue ↘ //

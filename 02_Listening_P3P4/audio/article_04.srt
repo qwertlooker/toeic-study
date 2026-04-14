@@ -1,0 +1,43 @@
+1
+00:00:00,000 --> 00:00:01,660
+11 ↗ / 05 A.M ↘ //
+
+2
+00:00:01,660 --> 00:00:07,131
+Maya ↗ / Hi Leo ↗ / my flight from <b>Mani</b>la has been <b>dela</b>yed by two hours ↘ //
+
+3
+00:00:07,131 --> 00:00:08,790
+11 ↗ / 07 A.M ↘ //
+
+4
+00:00:08,790 --> 00:00:11,680
+Leo ↗ / Thanks for <b>lett</b>ing me know ↘ //
+
+5
+00:00:11,680 --> 00:00:14,138
+Are you still‿arriving‿at <b>Termi</b>nal 1 ↗ //
+
+6
+00:00:14,138 --> 00:00:15,798
+11 ↗ / 08 A.M ↘ //
+
+7
+00:00:15,798 --> 00:00:20,347
+Maya ↗ / Yes ↗ / but‿I will miss the airport train <b>connec</b>tion ↘ //
+
+8
+00:00:20,347 --> 00:00:23,236
+Could you pick me up‿<b>arou</b>nd 5 ↗ / 30 ↗ //
+
+9
+00:00:23,236 --> 00:00:24,896
+11 ↗ / 10 A.M ↘ //
+
+10
+00:00:24,896 --> 00:00:26,863
+Leo ↗ / No <b>prob</b>lem ↘ //
+
+11
+00:00:26,863 --> 00:00:32,088
+I will wait near the <b>informa</b>tion desk‿and bring the <b>confer</b>ence welcome packet with me ↘ //

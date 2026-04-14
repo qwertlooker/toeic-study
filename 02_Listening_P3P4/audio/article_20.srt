@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:07,673
+<b>Inqu</b>iry ↗ / Dear <b>Sal</b>es Team ↗ / I am‿<b>intere</b>sted‿in‿ordering custom <b>noteb</b>ooks for‿our company‿event next month ↘ //
+
+2
+00:00:07,673 --> 00:00:12,953
+We would like 300 <b>noteb</b>ooks with‿our company logo <b>prin</b>ted‿on the front cover ↘ //
+
+3
+00:00:12,953 --> 00:00:21,330
+Could you please let me know the <b>pri</b>ce per‿unit ↗ / the <b>produc</b>tion time ↗ / and whether‿express shipping‿is‿<b>avail</b>able ↗ //
+
+4
+00:00:21,330 --> 00:00:24,639
+<b>Rep</b>ly ↗ / Thank you for <b>contact</b>ing‿us ↘ //
+
+5
+00:00:24,639 --> 00:00:30,060
+For‿an‿order‿of 300 custom <b>noteb</b>ooks ↗ / the <b>pri</b>ce would be $4.80 per‿unit ↘ //
+
+6
+00:00:30,060 --> 00:00:33,579
+<b>Produc</b>tion‿usually takes seven to ten business days ↘ //
+
+7
+00:00:33,579 --> 00:00:41,112
+Express shipping‿is‿available for‿an‿<b>additi</b>onal fee ↗ / and we can send you a <b>samp</b>le <b>noteb</b>ook this week ↘ //

@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:04,212
+<b>Subj</b>ect ↗ / Payment <b>Remind</b>er for‿Invoice #4821 Dear Mr ↘ //
+
+2
+00:00:04,212 --> 00:00:13,202
+Park ↗ / This‿is‿a friendly <b>remind</b>er that payment for‿<b>Invo</b>ice #4821 ↗ / issued‿on‿<b>Apr</b>il 3 ↗ / is now‿<b>over</b>due ↘ //
+
+3
+00:00:13,202 --> 00:00:20,005
+The total‿<b>amou</b>nt due is $1 ↗ / 240 ↗ / and payment was‿<b>origin</b>ally‿expected by‿April 17 ↘ //
+
+4
+00:00:20,005 --> 00:00:23,650
+Please arrange payment‿at your‿earliest <b>conveni</b>ence ↘ //
+
+5
+00:00:23,650 --> 00:00:29,482
+If you have already sent the <b>paym</b>ent ↗ / please <b>disre</b>gard this message ↘ //
+
+6
+00:00:29,482 --> 00:00:39,768
+<b>Other</b>wise ↗ / we would‿<b>apprec</b>iate it‿if you could complete the <b>transac</b>tion by the end‿of this week to avoid‿any late fees ↘ //

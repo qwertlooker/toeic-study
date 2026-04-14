@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:05,997
+<b>Subj</b>ect ↗ / Reservation <b>Confirma</b>tion Dear Guest ↗ / Thank you for <b>choos</b>ing Harbor View Hotel ↘ //
+
+2
+00:00:05,997 --> 00:00:11,709
+This‿e-mail confirms your <b>reserva</b>tion for‿a <b>stand</b>ard double room from June 8 to June 11 ↘ //
+
+3
+00:00:11,709 --> 00:00:18,564
+Your check-in time is‿after 3 ↗ / 00 p.m. ↗ / and check-out‿is by 11 ↗ / 00 a.m ↘ //
+
+4
+00:00:18,564 --> 00:00:25,489
+<b>Break</b>fast‿is‿included‿in your room rate ↗ / and free wireless‿Internet‿is‿<b>avail</b>able <b>throug</b>hout the hotel ↘ //
+
+5
+00:00:25,489 --> 00:00:34,200
+If you need to make <b>chang</b>es‿or cancel your <b>book</b>ing ↗ / <b>noti</b>fy‿us no later than June 5 to avoid‿a <b>cancella</b>tion fee ↘ //

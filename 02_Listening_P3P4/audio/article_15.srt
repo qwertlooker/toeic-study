@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:13,265
+<b>Subj</b>ect ↗ / Important‿Update About Your Flight Dear <b>Passeng</b>er ↗ / We regret to inform you that Flight‿AX214 from <b>Singa</b>pore to Seoul‿on July 6 has been canceled due to severe weather <b>condit</b>ions ↘ //
+
+2
+00:00:13,265 --> 00:00:20,432
+We have <b>automati</b>cally rebooked you on Flight‿AX226 ↗ / which will <b>depa</b>rt‿at 8 ↗ / 40 a.m ↘ //
+
+3
+00:00:20,432 --> 00:00:21,957
+on July 7 ↘ //
+
+4
+00:00:21,957 --> 00:00:31,639
+If the new <b>flig</b>ht does not suit your <b>sched</b>ule ↗ / you may change your <b>book</b>ing‿at no <b>additi</b>onal charge within the next 48 hours ↘ //
+
+5
+00:00:31,639 --> 00:00:35,832
+We apologize for the <b>inconven</b>ience and‿appreciate your‿<b>understand</b>ing ↘ //
